@@ -3,7 +3,7 @@ Q1. Explain the infrastructure and application setup of your last project. How i
 Follow-ups:
 Where exactly is the frontend hosted?
 Where is the backend hosted?
-Where is the database stored?
+Where is the database stored??
 Is everything on AWS or multi-cloud?
 What part of the infra do you manage personally?
 What are the microservices doing?
